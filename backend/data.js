@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      name: 'Nike Slim shirt',
+      name: 'Nike Slim shirt xd',
       slug: 'nike-slim-shirt',
       category: 'Shirts',
       image: '/images/p1.jpg', // 679px × 829px
@@ -18,7 +18,7 @@ const data = {
       category: 'Shirts',
       image: '/images/p2.jpg',
       price: 250,
-      countInStock: 20,
+      countInStock: 0,
       brand: 'Adidas',
       rating: 4.0,
       numReviews: 10,
